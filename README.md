@@ -31,3 +31,7 @@ Open `SimpleEQ.jucer` in the Projucer, export for your IDE (Xcode or Visual Stud
 ---
 
 More of my work: [deniztugluaudio.com](https://deniztugluaudio.com) · [GitHub](https://github.com/deniztuglu)
+
+## License
+
+My code is MIT licensed (see [LICENSE](LICENSE)). JUCE itself is not included here and is covered by its own license; see [juce.com](https://juce.com/get-juce/).
